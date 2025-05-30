@@ -62,4 +62,5 @@ prompt:
   success:        "成功！"
 
 footer:
-  license: "本文采用 CC BY-NC-SA 4.0 协议发布，转载请注明出处。"
+  power: 'Using the <a href="https://github.com/cotes2020/jekyll-theme-chirpy">Chirpy</a> theme for <a href="https://jekyllrb.com/">Jekyll</a>.'
+
