@@ -1,0 +1,65 @@
+tabs:
+  home:        "主页"
+  categories:  "分类"
+  tags:        "标签"
+  archives:    "归档"
+  about:       "关于我"
+
+panel:
+  lastmod:     "最近更新"
+  trending_tags: "热门标签"
+  toc:         "目录"
+  more:        "查看更多"
+  related_posts: "相关文章"
+
+search:
+  hint:        "搜索标题、内容..."
+  cancel:      "取消"
+  no_results:  "未找到结果"
+
+pagination:
+  newer:       "上一页"
+  older:       "下一页"
+
+post:
+  posted:      "发表于"
+  updated:     "更新于"
+  words:       "字数"
+  pageview_measure: "次阅读"
+  read_time:
+    unit:      "分钟"
+    prompt:    "阅读"
+  relate_posts: "你可能感兴趣的文章"
+  share:       "分享"
+  button:
+    copy_code:
+      succeed: "已复制！"
+    share_link:
+      title:   "复制链接"
+      succeed: "已复制！"
+    back2top:  "回到顶部"
+
+categories:
+  category_measure: "篇文章"
+  label:        "分类"
+  none:         "无分类"
+
+tags:
+  tag_measure:  "篇文章"
+  label:        "标签"
+  none:         "无标签"
+
+archives:
+  hint:         "按月归档"
+  expand:       "展开"
+  fold:         "收起"
+
+pin_prompt:     "置顶"
+
+prompt:
+  email_invalid:  "无效的邮箱地址！"
+  warning:        "警告"
+  success:        "成功！"
+
+footer:
+  license: "本文采用 CC BY-NC-SA 4.0 协议发布，转载请注明出处。"
