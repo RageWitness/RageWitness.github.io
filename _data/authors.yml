@@ -1,0 +1,12 @@
+## Template › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/advanced-usage.md#setting-author-url
+# -------------------------------------
+# {author_id}:
+#   name: {full name}
+#   twitter: {twitter_of_author}
+#   url: {homepage_of_author}
+# -------------------------------------
+
+RageWitness:
+  name: RageWitness
+  bio: owner
+  url: https://github.com/RageWitness/ # 可选：你头像的路径（可以不写）
